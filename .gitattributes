@@ -1,0 +1,6 @@
+student_start_pack/ArtBench10_Student_Start_Pack.ipynb filter=lfs diff=lfs merge=lfs -text
+student_start_pack/ArtBench10_Student_Start_Pack.bck.0.ipynb filter=lfs diff=lfs merge=lfs -text
+student_start_pack/ArtBench10_Student_Start_Pack.bck.1.ipynb filter=lfs diff=lfs merge=lfs -text
+outputs.html filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+*.html filter=lfs diff=lfs merge=lfs -text

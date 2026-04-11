@@ -1,0 +1,37 @@
+# ── uv / Python virtual environment ─────────────────────────────────────────
+.venv/
+
+# ── Python cache ─────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Data / model artefacts ───────────────────────────────────────────────────
+ArtBench-10/
+*.pkl
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# ── OS / IDE ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── Environment / secrets ────────────────────────────────────────────────────
+.env
+.env.*
+*.env
