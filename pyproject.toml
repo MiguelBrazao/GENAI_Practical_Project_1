@@ -1,0 +1,66 @@
+[project]
+name = "genai-practical-project-1"
+version = "0.1.0"
+description = "ArtBench-10 Generative AI Practical Project"
+requires-python = ">=3.10"
+
+dependencies = [
+    # Core scientific stack
+    "numpy>=1.24",
+    "matplotlib>=3.7",
+
+    # HuggingFace datasets (used in artbench_local_dataset.py + notebook)
+    "datasets>=2.18",
+
+    # Notebook support
+    "jupyter>=1.0",
+    "ipykernel>=6.0",
+]
+
+[project.optional-dependencies]
+# CPU-only (no GPU required):  uv sync --extra cpu
+cpu = [
+    "torch>=2.2",
+    "torchvision>=0.17",
+]
+# CUDA 12.8 (NVIDIA GPU):      uv sync --extra gpu
+gpu = [
+    "torch>=2.2",
+    "torchvision>=0.17",
+]
+
+# ---------------------------------------------------------------------------
+# uv configuration
+# ---------------------------------------------------------------------------
+
+[tool.uv]
+# Tell uv that cpu and gpu are mutually exclusive extras.
+# This prevents it from trying to resolve both indexes simultaneously.
+conflicts = [
+    [
+        { extra = "cpu" },
+        { extra = "gpu" },
+    ],
+]
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true
+
+[tool.uv.sources]
+# extra=cpu  →  CPU wheels  (works on any machine)
+# extra=gpu  →  CUDA 12.8 wheels  (requires NVIDIA GPU + driver)
+torch = [
+    { index = "pytorch-cu128", extra = "gpu" },
+    { index = "pytorch-cpu",   extra = "cpu" },
+]
+torchvision = [
+    { index = "pytorch-cu128", extra = "gpu" },
+    { index = "pytorch-cpu",   extra = "cpu" },
+]
