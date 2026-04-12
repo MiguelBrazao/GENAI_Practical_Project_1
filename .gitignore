@@ -35,3 +35,13 @@ Thumbs.db
 .env
 .env.*
 *.env
+
+# Enunciados
+_GENAI__TP1_Enunciado_2026_v2.pdf
+Project1-ArtBench-Generative-Modeling.pdf
+
+# Exemplos das aulas
+Exemplos_aulas
+
+# Pasta de imagens
+exported_data
