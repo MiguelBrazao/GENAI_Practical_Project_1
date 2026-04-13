@@ -16,7 +16,6 @@ build/
 *.ipynb_checkpoints
 
 # ── Data / model artefacts ───────────────────────────────────────────────────
-ArtBench-10/
 *.pkl
 *.pt
 *.pth
