@@ -395,6 +395,8 @@ python-dateutil==2.9.0.post0
     #   pandas
 python-json-logger==4.1.0
     # via jupyter-events
+pytorch-fid==0.3.0
+    # via genai-practical-project-1
 pytz==2026.1.post1 ; python_full_version < '3.11'
     # via pandas
 pywinpty==3.0.3 ; os_name == 'nt'
@@ -468,8 +470,16 @@ torch==2.11.0+cu128
     # via
     #   genai-practical-project-1
     #   torchvision
-torchvision==0.26.0+cu128
+torch-fidelity==0.3.0
+    # via
+    #   genai-practical-project-1
+    #   torchmetrics
+torchmetrics==1.8.2
     # via genai-practical-project-1
+torchvision==0.26.0+cu128
+    # via
+    #   genai-practical-project-1
+    #   torch-fidelity
 tornado==6.5.5
     # via
     #   ipykernel
