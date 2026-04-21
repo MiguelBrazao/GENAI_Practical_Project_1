@@ -9,15 +9,12 @@ dependencies = [
     "numpy>=1.24",
     "matplotlib>=3.7",
     "tqdm>=4.66",
-
     # HuggingFace datasets (used in artbench_local_dataset.py + notebook)
     "datasets>=2.18",
-
     # Evaluation metrics used in the notebook workflow
     "pytorch-fid>=0.3.0",
     "torchmetrics>=1.8.0",
     "torch-fidelity>=0.3.0",
-
     # Notebook support
     "jupyter>=1.0",
     "ipykernel>=6.0",
