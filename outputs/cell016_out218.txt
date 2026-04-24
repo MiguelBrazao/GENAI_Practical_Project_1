@@ -1,0 +1,1 @@
+Diff epoch 01/40 | loss: 0.2070

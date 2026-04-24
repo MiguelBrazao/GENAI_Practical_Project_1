@@ -1,0 +1,1 @@
+Epoch 29/80 | train_loss=114158.5945 train_recon=113375.5255 train_kl=3915.3452

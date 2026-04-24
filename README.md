@@ -94,3 +94,52 @@ Descarregar **ArtBench-10** do Kaggle e colocar a pasta em `ArtBench-10/`
 (i.e. `ArtBench-10/ArtBench-10.csv` e `ArtBench-10/artbench-10-python/` devem existir).
 
 Alternativamente, definir `dataset_source="hf"` no notebook para fazer streaming diretamente do HuggingFace Hub.
+
+---
+
+## 📤 Exportar outputs do notebook
+
+Este repositório inclui o script `scripts/export_outputs.py` para limpar estados de widgets, extrair ficheiros de saída do notebook e gerar um ficheiro HTML com todos os outputs.
+Antes de correr este script, é necessário correr as células do notebook para gerar os outputs das suas células.
+
+Como usar
+- Ativar o ambiente do projecto (opcional se usar `uv`):
+
+```bash
+# ativar manualmente
+source .venv/bin/activate
+
+# ou usar o `uv` para correr sem activar manualmente
+uv run python scripts/export_outputs.py --help
+```
+
+Exemplos de execução
+
+```bash
+# executar com os valores por omissão
+uv run python scripts/export_outputs.py
+
+# especificar notebook e pasta de saída
+uv run python scripts/export_outputs.py \
+	--notebook student_start_pack/ArtBench10_Student_Start_Pack.ipynb \
+	--outdir outputs
+```
+
+Parâmetros principais
+- `--notebook, -n`: caminho para o ficheiro `.ipynb` (padrão: `student_start_pack/ArtBench10_Student_Start_Pack.ipynb`).
+- `--outdir, -o`: pasta onde os ficheiros extraídos serão escritos (padrão: `outputs/`).
+- `--cleaned-name, -c`: nome opcional para o notebook limpo (por defeito usa `-cleaned.ipynb`).
+
+O que o script gera
+- **Notebook limpo**: escreve um ficheiro ao lado do original com o sufixo `-cleaned.ipynb` (ex.: `ArtBench10_Student_Start_Pack-cleaned.ipynb`). Se a exportação HTML for bem-sucedida, o ficheiro limpo é removido no fim.
+- **Ficheiros extraídos em `--outdir`** (`outputs/`):
+	- `cellNNN_outMMM.txt` — saídas do tipo `stream` (stdout/stderr).
+	- `cellNNN_outMMM_plain.txt` — conteúdo `text/plain` extraído de outputs.
+	- `cellNNN_outMMM.png` / `cellNNN_outMMM.jpg` — imagens decodificadas de Base64.
+	- O script limpa o conteúdo existente de `--outdir` antes de escrever (apaga ficheiros antigos nessa pasta).
+- **Ficheiro HTML exportado**: `outputs.html` no root do projecto. Abra-o num browser para ver os outputs consolidados.
+
+Notas e comportamento adicional
+- O script tenta primeiro usar a API Python do `nbconvert` (mais robusta). Se essa exportação falhar, há um fallback para chamar `nbconvert` via `subprocess`.
+- Se ocorrer uma falha ao decodificar imagens, o script emite um aviso e continua com os restantes ficheiros.
+- Para garantir que o script usa as mesmas dependências do projecto, prefira `uv run python scripts/export_outputs.py` em vez de chamar `python` do sistema.

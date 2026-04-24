@@ -1,0 +1,1 @@
+Diff epoch 39/40 | loss: 0.0322
