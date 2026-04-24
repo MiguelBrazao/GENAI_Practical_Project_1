@@ -1,1 +1,1 @@
-Epoch 97/120 | D loss: 0.4600 | G loss: 3.5108
+Epoch 97/120 | D loss: 0.1199 | G loss: 4.1498

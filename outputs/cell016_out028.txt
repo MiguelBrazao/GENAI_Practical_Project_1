@@ -1,1 +1,1 @@
-VAE FID Score for seed 42: 413.5141
+VAE FID Score for seed 42: 409.0493
