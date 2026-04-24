@@ -1,2 +1,0 @@
-Diff epoch 40/40 | loss: 0.0300
-Diffusion training completed in 247.35 seconds.

@@ -1,1 +1,1 @@
-Epoch 25/80 | train_loss=114328.6458 train_recon=113557.5352 train_kl=3855.5522
+VAE FID Score for seed 42: 413.5141

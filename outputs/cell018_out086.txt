@@ -1,0 +1,1 @@
+VAE sampling completed in 7.83 seconds.

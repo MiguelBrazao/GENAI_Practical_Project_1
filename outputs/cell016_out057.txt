@@ -1,1 +1,5 @@
-Epoch 54/80 | train_loss=113816.7011 train_recon=113040.8226 train_kl=3879.3932
+GAN FID Score for seed 42: 302.5155
+GAN KID mean for seed 42 : 0.13443079590797424
+GAN KID std for seed 42 : 0.014333419501781464
+--------------------------------------------------
+Starting diffusion training and sampling with seed: 42

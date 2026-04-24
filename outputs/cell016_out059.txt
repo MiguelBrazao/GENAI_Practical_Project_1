@@ -1,1 +1,1 @@
-Epoch 56/80 | train_loss=113840.1248 train_recon=113061.6057 train_kl=3892.5949
+Diff epoch 02/20 | loss: 0.1288

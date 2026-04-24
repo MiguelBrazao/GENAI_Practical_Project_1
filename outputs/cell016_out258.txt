@@ -1,2 +1,0 @@
-Diffusion sampling of 1000 images completed in 145.30 seconds.
-Average Diffusion Loss for seed 42: 0.0404

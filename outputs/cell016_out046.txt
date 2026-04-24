@@ -1,1 +1,1 @@
-Epoch 43/80 | train_loss=113852.0425 train_recon=113074.2445 train_kl=3888.9893
+Epoch 16/20 | D loss: 0.9419 | G loss: 1.7582

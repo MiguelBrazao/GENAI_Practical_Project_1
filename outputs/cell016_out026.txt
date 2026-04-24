@@ -1,1 +1,1 @@
-Epoch 23/80 | train_loss=114218.2538 train_recon=113442.4529 train_kl=3879.0058
+VAE sampling completed in 0.26 seconds.

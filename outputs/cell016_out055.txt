@@ -1,1 +1,2 @@
-Epoch 52/80 | train_loss=113821.7796 train_recon=113045.5740 train_kl=3881.0282
+GAN training and sampling completed in 92.81 seconds.
+GAN sampling completed in 0.02 seconds.

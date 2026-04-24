@@ -1,1 +1,0 @@
-Average GAN Generator Loss for seed 42: 3.4992

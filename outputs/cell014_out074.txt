@@ -1,1 +1,0 @@
-Diff epoch 17/20 | loss: 0.0749

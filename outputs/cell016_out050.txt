@@ -1,1 +1,2 @@
-Epoch 47/80 | train_loss=113865.6108 train_recon=113089.5276 train_kl=3880.4161
+Epoch 20/20 | D loss: 0.8223 | G loss: 1.9661
+Saved checkpoint to exported_data/gan_checkpoint.pth

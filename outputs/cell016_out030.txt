@@ -1,1 +1,4 @@
-Epoch 27/80 | train_loss=114100.3073 train_recon=113321.4612 train_kl=3894.2299
+VAE KID mean for seed 42 : 0.3249644935131073
+VAE KID std for seed 42 : 0.01631930284202099
+--------------------------------------------------
+Starting GAN training and sampling with seed: 42

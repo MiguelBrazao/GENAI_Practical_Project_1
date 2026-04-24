@@ -1,4 +1,0 @@
-Epoch 20/20 | train_loss=116381.7991 train_recon=115214.1970 train_kl=1668.0029
-Saved conv_vae_ld16 model to ../artifacts/models/conv_vae_ld16.pt and history to ../artifacts/histories/conv_vae_ld16.json
-VAE training completed in 66.42 seconds.
-Average VAE Loss for seed 42: 117191.7576

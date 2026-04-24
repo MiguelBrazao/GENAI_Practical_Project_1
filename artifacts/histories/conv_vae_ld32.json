@@ -1,402 +1,402 @@
 [
   {
-    "train_loss": 129681.791415625,
-    "train_recon_bce": 124935.542778125,
-    "train_kl": 23731.24357734375
+    "train_loss": 128841.438675,
+    "train_recon_bce": 124507.65573125,
+    "train_kl": 21668.911769140625
   },
   {
-    "train_loss": 119848.0825375,
-    "train_recon_bce": 118221.280471875,
-    "train_kl": 8134.01080078125
+    "train_loss": 119503.174609375,
+    "train_recon_bce": 118043.7325125,
+    "train_kl": 7297.210030078125
   },
   {
-    "train_loss": 118768.987646875,
-    "train_recon_bce": 117391.583496875,
-    "train_kl": 6887.020717578125
+    "train_loss": 117993.7277625,
+    "train_recon_bce": 116789.49956875,
+    "train_kl": 6021.1406125
   },
   {
-    "train_loss": 117866.865103125,
-    "train_recon_bce": 116631.18715,
-    "train_kl": 6178.390090625
+    "train_loss": 116723.869840625,
+    "train_recon_bce": 115620.9276,
+    "train_kl": 5514.711511328125
   },
   {
-    "train_loss": 117603.096571875,
-    "train_recon_bce": 116331.2704875,
-    "train_kl": 6359.1325734375
+    "train_loss": 116384.74205,
+    "train_recon_bce": 115278.97631875,
+    "train_kl": 5528.82907578125
   },
   {
-    "train_loss": 116190.310421875,
-    "train_recon_bce": 115099.133096875,
-    "train_kl": 5455.885565039062
+    "train_loss": 115548.18508125,
+    "train_recon_bce": 114599.47351875,
+    "train_kl": 4743.557576171875
   },
   {
-    "train_loss": 116220.262953125,
-    "train_recon_bce": 115116.31400625,
-    "train_kl": 5519.744562890625
+    "train_loss": 115586.44708125,
+    "train_recon_bce": 114646.63656875,
+    "train_kl": 4699.05355859375
   },
   {
-    "train_loss": 115558.683371875,
-    "train_recon_bce": 114544.31241875,
-    "train_kl": 5071.855775976563
+    "train_loss": 115293.965784375,
+    "train_recon_bce": 114386.637325,
+    "train_kl": 4536.644779492188
   },
   {
-    "train_loss": 115216.022684375,
-    "train_recon_bce": 114259.436046875,
-    "train_kl": 4782.933248632812
+    "train_loss": 115035.73754375,
+    "train_recon_bce": 114161.57159375,
+    "train_kl": 4370.829149414062
   },
   {
-    "train_loss": 114980.487353125,
-    "train_recon_bce": 114069.33829375,
-    "train_kl": 4555.746376367188
+    "train_loss": 114722.23041875,
+    "train_recon_bce": 113887.360375,
+    "train_kl": 4174.35186328125
   },
   {
-    "train_loss": 114825.739346875,
-    "train_recon_bce": 113957.672378125,
-    "train_kl": 4340.334020703125
+    "train_loss": 114665.940934375,
+    "train_recon_bce": 113849.8660125,
+    "train_kl": 4080.37345078125
   },
   {
-    "train_loss": 114734.3515125,
-    "train_recon_bce": 113878.225028125,
-    "train_kl": 4280.6317875
+    "train_loss": 114641.43805625,
+    "train_recon_bce": 113830.916828125,
+    "train_kl": 4052.6069107421877
   },
   {
-    "train_loss": 114586.273778125,
-    "train_recon_bce": 113767.0993875,
-    "train_kl": 4095.8709200195312
+    "train_loss": 114544.33441875,
+    "train_recon_bce": 113745.6999375,
+    "train_kl": 3993.1721224609373
   },
   {
-    "train_loss": 114629.66793125,
-    "train_recon_bce": 113807.0327125,
-    "train_kl": 4113.1754734375
+    "train_loss": 114501.94586875,
+    "train_recon_bce": 113708.86091875,
+    "train_kl": 3965.425428515625
   },
   {
-    "train_loss": 114519.6533625,
-    "train_recon_bce": 113715.7173125,
-    "train_kl": 4019.6800890625
+    "train_loss": 114435.3112375,
+    "train_recon_bce": 113648.4223,
+    "train_kl": 3934.4432197265623
   },
   {
-    "train_loss": 114438.289096875,
-    "train_recon_bce": 113636.8457375,
-    "train_kl": 4007.2157771484376
+    "train_loss": 114402.260096875,
+    "train_recon_bce": 113614.33176875,
+    "train_kl": 3939.640324707031
   },
   {
-    "train_loss": 114365.056675,
-    "train_recon_bce": 113575.7237625,
-    "train_kl": 3946.663705078125
+    "train_loss": 114316.891328125,
+    "train_recon_bce": 113538.012221875,
+    "train_kl": 3894.39504765625
   },
   {
-    "train_loss": 114449.716309375,
-    "train_recon_bce": 113662.184175,
-    "train_kl": 3937.662091796875
+    "train_loss": 114449.0552625,
+    "train_recon_bce": 113671.7221,
+    "train_kl": 3886.666240234375
   },
   {
-    "train_loss": 114233.595246875,
-    "train_recon_bce": 113447.791115625,
-    "train_kl": 3929.02090234375
+    "train_loss": 114227.859759375,
+    "train_recon_bce": 113448.462,
+    "train_kl": 3896.9904296875
   },
   {
-    "train_loss": 114280.6465875,
-    "train_recon_bce": 113504.427140625,
-    "train_kl": 3881.0969141601563
+    "train_loss": 114282.241978125,
+    "train_recon_bce": 113508.6026875,
+    "train_kl": 3868.1967791015627
   },
   {
-    "train_loss": 114324.602159375,
-    "train_recon_bce": 113542.072721875,
-    "train_kl": 3912.647801171875
+    "train_loss": 114295.05765625,
+    "train_recon_bce": 113519.5861125,
+    "train_kl": 3877.3572224609375
   },
   {
-    "train_loss": 114307.78911875,
-    "train_recon_bce": 113528.7561125,
-    "train_kl": 3895.1657986328123
+    "train_loss": 114279.010421875,
+    "train_recon_bce": 113504.8655625,
+    "train_kl": 3870.7252041015627
   },
   {
-    "train_loss": 114218.253815625,
-    "train_recon_bce": 113442.452865625,
-    "train_kl": 3879.0058154296876
+    "train_loss": 114221.867371875,
+    "train_recon_bce": 113448.972675,
+    "train_kl": 3864.473174609375
   },
   {
-    "train_loss": 114163.630503125,
-    "train_recon_bce": 113384.96023125,
-    "train_kl": 3893.3515236328126
+    "train_loss": 114140.874928125,
+    "train_recon_bce": 113363.910915625,
+    "train_kl": 3884.821197949219
   },
   {
-    "train_loss": 114328.645828125,
-    "train_recon_bce": 113557.5352125,
-    "train_kl": 3855.5522313476563
+    "train_loss": 114335.154559375,
+    "train_recon_bce": 113566.966678125,
+    "train_kl": 3840.93920859375
   },
   {
-    "train_loss": 114346.52549375,
-    "train_recon_bce": 113569.276815625,
-    "train_kl": 3886.2436763671876
+    "train_loss": 114325.2350125,
+    "train_recon_bce": 113549.88794375,
+    "train_kl": 3876.7363708984376
   },
   {
-    "train_loss": 114100.30731875,
-    "train_recon_bce": 113321.461159375,
-    "train_kl": 3894.229890234375
+    "train_loss": 114110.5689875,
+    "train_recon_bce": 113332.850528125,
+    "train_kl": 3888.594380371094
   },
   {
-    "train_loss": 114325.44913125,
-    "train_recon_bce": 113555.899190625,
-    "train_kl": 3847.749628125
+    "train_loss": 114337.13914375,
+    "train_recon_bce": 113568.702446875,
+    "train_kl": 3842.1838865234376
   },
   {
-    "train_loss": 114158.5944875,
-    "train_recon_bce": 113375.525459375,
-    "train_kl": 3915.3451895507815
+    "train_loss": 114151.48265625,
+    "train_recon_bce": 113372.020040625,
+    "train_kl": 3897.31353984375
   },
   {
-    "train_loss": 114041.91736875,
-    "train_recon_bce": 113263.102853125,
-    "train_kl": 3894.0727830078126
+    "train_loss": 114021.4882625,
+    "train_recon_bce": 113245.899884375,
+    "train_kl": 3877.940494921875
   },
   {
-    "train_loss": 114243.666625,
-    "train_recon_bce": 113469.741125,
-    "train_kl": 3869.62798203125
+    "train_loss": 114247.769184375,
+    "train_recon_bce": 113475.70718125,
+    "train_kl": 3860.307983984375
   },
   {
-    "train_loss": 114058.18279375,
-    "train_recon_bce": 113278.54260625,
-    "train_kl": 3898.20126484375
+    "train_loss": 114050.821875,
+    "train_recon_bce": 113272.7945375,
+    "train_kl": 3890.135088769531
   },
   {
-    "train_loss": 114000.757928125,
-    "train_recon_bce": 113226.6819125,
-    "train_kl": 3870.380346484375
+    "train_loss": 113975.359296875,
+    "train_recon_bce": 113203.75815,
+    "train_kl": 3858.0060234375
   },
   {
-    "train_loss": 114046.362290625,
-    "train_recon_bce": 113269.408040625,
-    "train_kl": 3884.7710201171876
+    "train_loss": 114054.486659375,
+    "train_recon_bce": 113278.538696875,
+    "train_kl": 3879.739748046875
   },
   {
-    "train_loss": 114048.305946875,
-    "train_recon_bce": 113272.5561875,
-    "train_kl": 3878.7474928710935
+    "train_loss": 113999.272140625,
+    "train_recon_bce": 113224.880725,
+    "train_kl": 3871.9561793945313
   },
   {
-    "train_loss": 113986.3517375,
-    "train_recon_bce": 113210.922465625,
-    "train_kl": 3877.1472125
+    "train_loss": 113965.9335875,
+    "train_recon_bce": 113191.49674375,
+    "train_kl": 3872.1835419921877
   },
   {
-    "train_loss": 114036.582159375,
-    "train_recon_bce": 113260.756425,
-    "train_kl": 3879.128951953125
+    "train_loss": 114006.426809375,
+    "train_recon_bce": 113231.7795,
+    "train_kl": 3873.2361049804686
   },
   {
-    "train_loss": 113941.704740625,
-    "train_recon_bce": 113166.91899375,
-    "train_kl": 3873.9278361328124
+    "train_loss": 113922.56190625,
+    "train_recon_bce": 113148.82270625,
+    "train_kl": 3868.69540859375
   },
   {
-    "train_loss": 114020.759934375,
-    "train_recon_bce": 113245.53828125,
-    "train_kl": 3876.1075888671876
+    "train_loss": 114014.551534375,
+    "train_recon_bce": 113239.62036875,
+    "train_kl": 3874.655806640625
   },
   {
-    "train_loss": 113875.551471875,
-    "train_recon_bce": 113096.859215625,
-    "train_kl": 3893.45983359375
+    "train_loss": 113867.587390625,
+    "train_recon_bce": 113090.44094375,
+    "train_kl": 3885.731683203125
   },
   {
-    "train_loss": 114002.67984375,
-    "train_recon_bce": 113228.633184375,
-    "train_kl": 3870.2333703125
+    "train_loss": 114053.355515625,
+    "train_recon_bce": 113280.75424375,
+    "train_kl": 3863.0058708984375
   },
   {
-    "train_loss": 113951.6416125,
-    "train_recon_bce": 113174.97430625,
-    "train_kl": 3883.3356504882813
+    "train_loss": 113928.698240625,
+    "train_recon_bce": 113153.91165,
+    "train_kl": 3873.933289160156
   },
   {
-    "train_loss": 113852.042475,
-    "train_recon_bce": 113074.244503125,
-    "train_kl": 3888.9893490234376
+    "train_loss": 113813.243603125,
+    "train_recon_bce": 113037.342459375,
+    "train_kl": 3879.5052857421874
   },
   {
-    "train_loss": 113911.73708125,
-    "train_recon_bce": 113137.27834375,
-    "train_kl": 3872.29693046875
+    "train_loss": 113883.636003125,
+    "train_recon_bce": 113110.51773125,
+    "train_kl": 3865.592399902344
   },
   {
-    "train_loss": 113942.979909375,
-    "train_recon_bce": 113167.0355875,
-    "train_kl": 3879.7212618164062
+    "train_loss": 113938.7475,
+    "train_recon_bce": 113164.1583125,
+    "train_kl": 3872.946579980469
   },
   {
-    "train_loss": 113813.996140625,
-    "train_recon_bce": 113037.08664375,
-    "train_kl": 3884.546180175781
+    "train_loss": 113799.789075,
+    "train_recon_bce": 113024.369540625,
+    "train_kl": 3877.0982212890626
   },
   {
-    "train_loss": 113865.610834375,
-    "train_recon_bce": 113089.527603125,
-    "train_kl": 3880.416068359375
+    "train_loss": 113854.59158125,
+    "train_recon_bce": 113080.036125,
+    "train_kl": 3872.7770924804686
   },
   {
-    "train_loss": 113959.62153125,
-    "train_recon_bce": 113185.00885,
-    "train_kl": 3873.062609765625
+    "train_loss": 113949.602803125,
+    "train_recon_bce": 113174.713565625,
+    "train_kl": 3874.44635703125
   },
   {
-    "train_loss": 113835.875828125,
-    "train_recon_bce": 113057.20515625,
-    "train_kl": 3893.3532015625
+    "train_loss": 113843.630346875,
+    "train_recon_bce": 113067.459625,
+    "train_kl": 3880.8542181640623
   },
   {
-    "train_loss": 113890.6300375,
-    "train_recon_bce": 113115.4213375,
-    "train_kl": 3876.0447107421874
+    "train_loss": 113889.467271875,
+    "train_recon_bce": 113115.875665625,
+    "train_kl": 3867.9571828125
   },
   {
-    "train_loss": 113820.723346875,
-    "train_recon_bce": 113042.30766875,
-    "train_kl": 3892.0777958984377
+    "train_loss": 113817.19061875,
+    "train_recon_bce": 113038.65461875,
+    "train_kl": 3892.678838671875
   },
   {
-    "train_loss": 113821.779559375,
-    "train_recon_bce": 113045.574025,
-    "train_kl": 3881.0281576171874
+    "train_loss": 113828.75678125,
+    "train_recon_bce": 113054.297253125,
+    "train_kl": 3872.296697265625
   },
   {
-    "train_loss": 113798.8864375,
-    "train_recon_bce": 113020.47441875,
-    "train_kl": 3892.0588254882814
+    "train_loss": 113779.83485,
+    "train_recon_bce": 113003.4328,
+    "train_kl": 3882.00976796875
   },
   {
-    "train_loss": 113816.701125,
-    "train_recon_bce": 113040.82255625,
-    "train_kl": 3879.393183203125
+    "train_loss": 113781.001375,
+    "train_recon_bce": 113005.9071625,
+    "train_kl": 3875.470434765625
   },
   {
-    "train_loss": 113812.462246875,
-    "train_recon_bce": 113035.32626875,
-    "train_kl": 3885.680551171875
+    "train_loss": 113830.619296875,
+    "train_recon_bce": 113054.89978125,
+    "train_kl": 3878.5972080078127
   },
   {
-    "train_loss": 113840.1248,
-    "train_recon_bce": 113061.6057375,
-    "train_kl": 3892.5949244140625
+    "train_loss": 113822.689403125,
+    "train_recon_bce": 113046.86226875,
+    "train_kl": 3879.1366416015626
   },
   {
-    "train_loss": 113773.62349375,
-    "train_recon_bce": 112993.739475,
-    "train_kl": 3899.420178125
+    "train_loss": 113758.27060625,
+    "train_recon_bce": 112977.95200625,
+    "train_kl": 3901.5924514648436
   },
   {
-    "train_loss": 113790.686065625,
-    "train_recon_bce": 113012.45315,
-    "train_kl": 3891.163777636719
+    "train_loss": 113783.821009375,
+    "train_recon_bce": 113008.4788,
+    "train_kl": 3876.71121328125
   },
   {
-    "train_loss": 113874.71859375,
-    "train_recon_bce": 113097.18661875,
-    "train_kl": 3887.66087421875
+    "train_loss": 113870.05140625,
+    "train_recon_bce": 113092.4950625,
+    "train_kl": 3887.7822235351564
   },
   {
-    "train_loss": 113830.095525,
-    "train_recon_bce": 113051.37575625,
-    "train_kl": 3893.6005719726563
+    "train_loss": 113794.61514375,
+    "train_recon_bce": 113016.19678125,
+    "train_kl": 3892.0916696289064
   },
   {
-    "train_loss": 113869.19968125,
-    "train_recon_bce": 113090.5057,
-    "train_kl": 3893.469777441406
+    "train_loss": 113886.178578125,
+    "train_recon_bce": 113108.72351875,
+    "train_kl": 3887.2754826171877
   },
   {
-    "train_loss": 113719.9983,
-    "train_recon_bce": 112935.381946875,
-    "train_kl": 3923.08388828125
+    "train_loss": 113715.876859375,
+    "train_recon_bce": 112934.0182375,
+    "train_kl": 3909.2915142578127
   },
   {
-    "train_loss": 113748.97738125,
-    "train_recon_bce": 112969.71599375,
-    "train_kl": 3896.30640703125
+    "train_loss": 113736.267103125,
+    "train_recon_bce": 112957.621796875,
+    "train_kl": 3893.2259634765624
   },
   {
-    "train_loss": 113737.11558125,
-    "train_recon_bce": 112955.69841875,
-    "train_kl": 3907.085616015625
+    "train_loss": 113732.7049,
+    "train_recon_bce": 112952.83098125,
+    "train_kl": 3899.368987109375
   },
   {
-    "train_loss": 113784.22415,
-    "train_recon_bce": 113005.94365,
-    "train_kl": 3891.402260546875
+    "train_loss": 113765.014309375,
+    "train_recon_bce": 112986.7792125,
+    "train_kl": 3891.1750673828124
   },
   {
-    "train_loss": 113686.55729375,
-    "train_recon_bce": 112907.1499375,
-    "train_kl": 3897.0358193359375
+    "train_loss": 113691.2303625,
+    "train_recon_bce": 112911.25145625,
+    "train_kl": 3899.896511328125
   },
   {
-    "train_loss": 113714.7742875,
-    "train_recon_bce": 112934.755715625,
-    "train_kl": 3900.09603984375
+    "train_loss": 113691.057609375,
+    "train_recon_bce": 112910.99985625,
+    "train_kl": 3900.288640234375
   },
   {
-    "train_loss": 113660.02785,
-    "train_recon_bce": 112878.874246875,
-    "train_kl": 3905.7694703125
+    "train_loss": 113638.90103125,
+    "train_recon_bce": 112858.71585625,
+    "train_kl": 3900.9258403320314
   },
   {
-    "train_loss": 113661.56856875,
-    "train_recon_bce": 112882.5807875,
-    "train_kl": 3894.939918359375
+    "train_loss": 113619.758396875,
+    "train_recon_bce": 112841.583178125,
+    "train_kl": 3890.8761939453125
   },
   {
-    "train_loss": 113720.27345,
-    "train_recon_bce": 112940.821934375,
-    "train_kl": 3897.2582900390626
+    "train_loss": 113703.9536625,
+    "train_recon_bce": 112924.7288125,
+    "train_kl": 3896.125160839844
   },
   {
-    "train_loss": 113695.94689375,
-    "train_recon_bce": 112914.092240625,
-    "train_kl": 3909.27298984375
+    "train_loss": 113704.65893125,
+    "train_recon_bce": 112925.5183875,
+    "train_kl": 3895.7023796875
   },
   {
-    "train_loss": 113751.41105625,
-    "train_recon_bce": 112971.68986875,
-    "train_kl": 3898.6054619140623
+    "train_loss": 113742.4044,
+    "train_recon_bce": 112964.135215625,
+    "train_kl": 3891.347300390625
   },
   {
-    "train_loss": 113715.991509375,
-    "train_recon_bce": 112934.79069375,
-    "train_kl": 3906.004526464844
+    "train_loss": 113694.347025,
+    "train_recon_bce": 112912.129415625,
+    "train_kl": 3911.087925390625
   },
   {
-    "train_loss": 113697.769675,
-    "train_recon_bce": 112915.94865625,
-    "train_kl": 3909.105249609375
+    "train_loss": 113674.499315625,
+    "train_recon_bce": 112894.69248125,
+    "train_kl": 3899.0352978515625
   },
   {
-    "train_loss": 113578.279290625,
-    "train_recon_bce": 112797.21460625,
-    "train_kl": 3905.3237829101563
+    "train_loss": 113578.540821875,
+    "train_recon_bce": 112797.472046875,
+    "train_kl": 3905.343316308594
   },
   {
-    "train_loss": 113630.791565625,
-    "train_recon_bce": 112848.088078125,
-    "train_kl": 3913.518403125
+    "train_loss": 113620.901025,
+    "train_recon_bce": 112839.9043,
+    "train_kl": 3904.9834421875
   },
   {
-    "train_loss": 113672.115046875,
-    "train_recon_bce": 112892.54695625,
-    "train_kl": 3897.840312109375
+    "train_loss": 113691.816640625,
+    "train_recon_bce": 112912.9351125,
+    "train_kl": 3894.408023730469
   },
   {
-    "train_loss": 113678.84300625,
-    "train_recon_bce": 112898.696346875,
-    "train_kl": 3900.7332359375
+    "train_loss": 113686.449665625,
+    "train_recon_bce": 112904.941021875,
+    "train_kl": 3907.54303984375
   },
   {
-    "train_loss": 113633.413371875,
-    "train_recon_bce": 112850.7627625,
-    "train_kl": 3913.2532017578123
+    "train_loss": 113592.86765625,
+    "train_recon_bce": 112809.589146875,
+    "train_kl": 3916.3921165039064
   },
   {
-    "train_loss": 113607.430890625,
-    "train_recon_bce": 112824.813009375,
-    "train_kl": 3913.0904643554686
+    "train_loss": 113579.330334375,
+    "train_recon_bce": 112796.921284375,
+    "train_kl": 3912.0462016601564
   }
 ]

@@ -1,1 +1,1 @@
-Epoch 49/80 | train_loss=113835.8758 train_recon=113057.2052 train_kl=3893.3532
+Average GAN Generator Loss for seed 42: 2.2845

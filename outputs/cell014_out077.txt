@@ -1,2 +1,0 @@
-Diff epoch 20/20 | loss: 0.0731
-Diffusion training completed in 83.46 seconds.

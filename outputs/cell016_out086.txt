@@ -1,1 +1,4 @@
-VAE sampling completed in 8.24 seconds.
+GAN KID Means across seeds: [0.13443079590797424]
+GAN KID Stds across seeds: [0.014333419501781464]
+Diffusion Avg Losses across seeds: [0.09630949402666965]
+Diffusion FID Scores across seeds: [np.float64(363.4237581692123)]
