@@ -1,0 +1,1 @@
+Diffusion FID Score for seed 0: 81.3846

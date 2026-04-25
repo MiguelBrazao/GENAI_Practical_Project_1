@@ -1,0 +1,29 @@
+Diffusion FID Score for seed 42: 58.0665
+Diffusion KID mean for seed 42 : 0.02691648341715336
+Diffusion KID std for seed 42 : 0.005077028181403875
+Using seed 123 for training cycle number 2
+--------------------------------------------------
+Notebook kernel detected: forcing num_workers=0 for DataLoader stability.
+PROJECT_ROOT = ..
+KAGGLE_ROOT  = ../ArtBench-10
+Dataset source: kaggle root='../ArtBench-10'
+Train size: 50000
+Columns   : ['image', 'label']
+Num classes: 10
+Class names: ['impressionism', 'realism', 'romanticism', 'expressionism', 'baroque', 'post_impressionism', 'art_nouveau', 'surrealism', 'ukiyo_e', 'renaissance']
+
+Train class distribution:
+   0 |   impressionism |   5000
+   1 |         realism |   5000
+   2 |     romanticism |   5000
+   3 |   expressionism |   5000
+   4 |         baroque |   5000
+   5 | post_impressionism |   5000
+   6 |     art_nouveau |   5000
+   7 |      surrealism |   5000
+   8 |         ukiyo_e |   5000
+   9 |     renaissance |   5000
+Exported 500 images to: exported_data/train_subset/images
+Metadata CSV: exported_data/train_subset/metadata.csv
+--------------------------------------------------
+Starting diffusion training and sampling with seed: 123
