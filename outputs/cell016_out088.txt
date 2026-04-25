@@ -1,2 +1,2 @@
-Diffusion KID Means across seeds: [0.26677799224853516]
-Diffusion KID Stds across seeds: [0.03390355408191681]
+Diffusion KID Means across seeds: [0.28987035155296326]
+Diffusion KID Stds across seeds: [0.026512447744607925]

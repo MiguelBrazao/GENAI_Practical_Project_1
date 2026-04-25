@@ -1,1 +1,1 @@
-Epoch 06/120 | D loss: 0.6187 | G loss: 3.7129
+Epoch 06/120 | D loss: 0.8017 | G loss: 2.9905

@@ -1,1 +1,1 @@
-Diff epoch 30/80 | loss: 0.0216
+Diff epoch 30/80 | loss: 0.0215

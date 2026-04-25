@@ -1,2 +1,2 @@
-Epoch 200/200 | D loss: 0.0606 | G loss: 5.1342
+Epoch 200/200 | D loss: 0.0977 | G loss: 4.9773
 Saved checkpoint to exported_data/gan_checkpoint.pth

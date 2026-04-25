@@ -1,1 +1,1 @@
-Epoch 63/120 | D loss: 0.3302 | G loss: 3.5717
+Epoch 63/120 | D loss: 0.3834 | G loss: 3.3457

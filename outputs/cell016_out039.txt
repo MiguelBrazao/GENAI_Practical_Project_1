@@ -1,1 +1,1 @@
-Epoch 09/20 | D loss: 0.9395 | G loss: 2.0981
+Epoch 09/20 | D loss: 0.9052 | G loss: 2.1960

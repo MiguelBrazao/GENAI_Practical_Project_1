@@ -1,5 +1,5 @@
-GAN FID Score for seed 42: 337.5028
-GAN KID mean for seed 42 : 0.13603082299232483
-GAN KID std for seed 42 : 0.015528731048107147
+GAN FID Score for seed 42: 324.0288
+GAN KID mean for seed 42 : 0.12911586463451385
+GAN KID std for seed 42 : 0.013711320236325264
 --------------------------------------------------
 Starting diffusion training and sampling with seed: 42

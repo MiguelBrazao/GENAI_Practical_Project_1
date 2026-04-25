@@ -1,1 +1,1 @@
-Epoch 30/120 | D loss: 0.5490 | G loss: 3.1786
+Epoch 30/120 | D loss: 0.5856 | G loss: 2.9207

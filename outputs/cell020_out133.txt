@@ -1,1 +1,1 @@
-Epoch 03/200 | D loss: 0.7547 | G loss: 3.1194
+Epoch 03/200 | D loss: 0.4923 | G loss: 3.6010

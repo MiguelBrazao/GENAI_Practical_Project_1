@@ -1,1 +1,1 @@
-Epoch 25/120 | D loss: 0.6075 | G loss: 2.8819
+Epoch 25/120 | D loss: 0.6365 | G loss: 2.6100
