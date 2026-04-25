@@ -1,0 +1,1 @@
+Diff epoch 61/80 | loss: 0.0206

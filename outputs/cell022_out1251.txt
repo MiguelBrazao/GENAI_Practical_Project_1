@@ -1,0 +1,3 @@
+Diff epoch 80/80 | loss: 0.0198
+Diffusion training and sampling completed in 294.88 seconds.
+Average Diffusion Loss for seed 2024: 0.0231

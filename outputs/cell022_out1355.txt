@@ -1,0 +1,1 @@
+Epoch 99/120 | train_loss=1763.1845 train_recon=1744.6549 train_kl=92.6478

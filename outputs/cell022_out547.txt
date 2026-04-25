@@ -1,0 +1,5 @@
+VAE FID Score for seed 999: 200.9039
+VAE KID mean for seed 999 : 0.14862661063671112
+VAE KID std for seed 999 : 0.007171189412474632
+--------------------------------------------------
+Starting GAN training and sampling with seed: 999

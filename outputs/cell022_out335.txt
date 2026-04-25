@@ -1,0 +1,2 @@
+GAN training and sampling completed in 410.50 seconds.
+GAN sampling completed in 0.96 seconds.

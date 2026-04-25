@@ -1,0 +1,5 @@
+VAE FID Score for seed 42: 204.3269
+VAE KID mean for seed 42 : 0.14969369769096375
+VAE KID std for seed 42 : 0.008627617731690407
+--------------------------------------------------
+Starting GAN training and sampling with seed: 42
