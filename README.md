@@ -99,8 +99,9 @@ Alternativamente, definir `dataset_source="hf"` no notebook para fazer streaming
 
 ## 📤 Exportar outputs do notebook
 
-Este repositório inclui o script `scripts/export_outputs.py` para limpar estados de widgets, extrair ficheiros de saída do notebook e gerar um ficheiro HTML com todos os outputs.
-Antes de correr este script, é necessário correr as células do notebook para gerar os outputs das suas células.
+Este projeto inclui na raíz um ficheiro de nome outputs.html que contém todos os resultados resultantes da pipeline do ficheiro ArtBench-10_Student_Start_Pack.ipynb, assim como uma pasta com os resultados célula a célula do notebook.  
+Para gerar estes ficheiros, foi incluído no repositório o script `scripts/export_outputs.py` que limpa estados de widgets, extrai ficheiros de saída do notebook e gera o ficheiro HTML com todos os outputs.  
+Antes de correr este script, é necessário correr as células do notebook para gerar os outputs das suas células. Mas é expectável que, em cada versão do repositório, estes ficheiros estejam gerados com os resultados da versão atual.  
 
 Como usar
 - Ativar o ambiente do projecto (opcional se usar `uv`):
