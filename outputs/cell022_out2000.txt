@@ -1,0 +1,2 @@
+GAN training completed in 1953.84 seconds.
+Average GAN Generator Loss for seed 123: 4.4216

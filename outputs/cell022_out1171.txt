@@ -1,0 +1,5 @@
+GAN FID Score for seed 2024: 61.3790
+GAN KID mean for seed 2024 : 0.019575905054807663
+GAN KID std for seed 2024 : 0.0034224067348986864
+--------------------------------------------------
+Starting diffusion training and sampling with seed: 2024

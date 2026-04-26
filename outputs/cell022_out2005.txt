@@ -1,0 +1,5 @@
+GAN FID Score for seed 123: 67.5787
+GAN KID mean for seed 123 : 0.027685880661010742
+GAN KID std for seed 123 : 0.005100298207253218
+--------------------------------------------------
+Starting diffusion training and sampling with seed: 123

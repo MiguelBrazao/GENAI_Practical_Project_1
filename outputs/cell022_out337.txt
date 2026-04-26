@@ -1,0 +1,5 @@
+GAN FID Score for seed 0: 55.7351
+GAN KID mean for seed 0 : 0.019607696682214737
+GAN KID std for seed 0 : 0.0033406729344278574
+--------------------------------------------------
+Starting diffusion training and sampling with seed: 0

@@ -1,0 +1,5 @@
+GAN FID Score for seed 999: 60.0366
+GAN KID mean for seed 999 : 0.022394666448235512
+GAN KID std for seed 999 : 0.0036636001896113157
+--------------------------------------------------
+Starting diffusion training and sampling with seed: 999

@@ -1,0 +1,27 @@
+--------------------------------------------------
+Diffusion means and std for all seeds:
+FID mean: 52.2608
+FID std:  3.3384
+KID mean: 0.027109
+KID std:  0.005964
+
+==================== FINAL SUMMARY ====================
+--------------------------------------------------
+VAE means and std for all seeds:
+FID mean: 164.2863
+FID std:  1.2504
+KID mean: 0.146860
+KID std:  0.001257
+--------------------------------------------------
+GAN means and std for all seeds:
+FID mean: 60.6327
+FID std:  4.4153
+KID mean: 0.022063
+KID std:  0.003353
+--------------------------------------------------
+Diffusion means and std for all seeds:
+FID mean: 52.2608
+FID std:  3.3384
+KID mean: 0.027109
+KID std:  0.005964
+=======================================================

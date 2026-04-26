@@ -1,0 +1,1 @@
+Epoch 35/120 | train_loss=1762.8625 train_recon=1744.9699 train_kl=89.4629

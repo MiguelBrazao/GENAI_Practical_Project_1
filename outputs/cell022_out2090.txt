@@ -1,0 +1,12 @@
+Diffusion FID Score for seed 123: 57.3497
+Diffusion KID mean for seed 123 : 0.029453415423631668
+Diffusion KID std for seed 123 : 0.00476541742682457
+
+==================== VAE ====================
+--------------------------------------------------
+VAE values across seeds:
+Seed 0 | FID: 162.5408 | KID mean: 0.145349 | KID std: 0.007794
+Seed 999 | FID: 164.2654 | KID mean: 0.147503 | KID std: 0.008138
+Seed 2024 | FID: 165.9997 | KID mean: 0.148135 | KID std: 0.007872
+Seed 42 | FID: 164.6804 | KID mean: 0.145678 | KID std: 0.008286
+Seed 123 | FID: 163.9453 | KID mean: 0.147635 | KID std: 0.006819

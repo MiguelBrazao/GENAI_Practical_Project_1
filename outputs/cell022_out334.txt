@@ -1,0 +1,1 @@
+GAN sampling completed in 0.14 seconds.

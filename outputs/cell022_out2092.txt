@@ -1,0 +1,15 @@
+--------------------------------------------------
+VAE means and std for all seeds:
+FID mean: 164.2863
+FID std:  1.2504
+KID mean: 0.146860
+KID std:  0.001257
+
+==================== GAN ====================
+--------------------------------------------------
+GAN values across seeds:
+Seed 0 | FID: 55.7351 | KID mean: 0.019608 | KID std: 0.003341
+Seed 999 | FID: 60.0366 | KID mean: 0.022395 | KID std: 0.003664
+Seed 2024 | FID: 61.3790 | KID mean: 0.019576 | KID std: 0.003422
+Seed 42 | FID: 58.4341 | KID mean: 0.021049 | KID std: 0.004300
+Seed 123 | FID: 67.5787 | KID mean: 0.027686 | KID std: 0.005100

@@ -1,0 +1,5 @@
+VAE FID Score for seed 2024: 165.9997
+VAE KID mean for seed 2024 : 0.14813460409641266
+VAE KID std for seed 2024 : 0.007871835492551327
+--------------------------------------------------
+Starting GAN training and sampling with seed: 2024
