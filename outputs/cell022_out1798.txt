@@ -1,5 +1,0 @@
-VAE FID Score for seed 123: 194.1315
-VAE KID mean for seed 123 : 0.14822329580783844
-VAE KID std for seed 123 : 0.009249803610146046
---------------------------------------------------
-Starting GAN training and sampling with seed: 123

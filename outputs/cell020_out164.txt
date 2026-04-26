@@ -1,1 +1,1 @@
-Epoch 34/200 | D loss: 0.5058 | G loss: 3.2957
+Epoch 34/200 | D loss: 0.6748 | G loss: 3.1390

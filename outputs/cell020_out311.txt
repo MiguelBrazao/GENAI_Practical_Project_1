@@ -1,1 +1,1 @@
-Epoch 181/200 | D loss: 0.3632 | G loss: 4.3183
+Epoch 181/200 | D loss: 0.3744 | G loss: 4.0928

@@ -1,2 +1,27 @@
-Diffusion KID Means across seeds: [0.10666345059871674]
-Diffusion KID Stds across seeds: [0.009616360999643803]
+--------------------------------------------------
+Diffusion means and std for all seeds:
+FID mean: 201.5991
+FID std:  0.0000
+KID mean: 0.130834
+KID std:  0.000000
+
+==================== FINAL SUMMARY ====================
+--------------------------------------------------
+VAE means and std for all seeds:
+FID mean: 249.3997
+FID std:  0.0000
+KID mean: 0.214720
+KID std:  0.000000
+--------------------------------------------------
+GAN means and std for all seeds:
+FID mean: 137.9675
+FID std:  0.0000
+KID mean: 0.057176
+KID std:  0.000000
+--------------------------------------------------
+Diffusion means and std for all seeds:
+FID mean: 201.5991
+FID std:  0.0000
+KID mean: 0.130834
+KID std:  0.000000
+=======================================================

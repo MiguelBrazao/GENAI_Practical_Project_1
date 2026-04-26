@@ -1,3 +1,0 @@
-Diff epoch 80/80 | loss: 0.0197
-Diffusion training and sampling completed in 298.73 seconds.
-Average Diffusion Loss for seed 0: 0.0231

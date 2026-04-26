@@ -1,4 +1,0 @@
-VAE KID mean for seed 0 : 0.14363929629325867
-VAE KID std for seed 0 : 0.007930142804980278
---------------------------------------------------
-Starting GAN training and sampling with seed: 0

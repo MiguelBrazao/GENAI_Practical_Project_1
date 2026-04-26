@@ -1,1 +1,1 @@
-Epoch 22/80 | train_loss=1786.4075 train_recon=1773.5498 train_kl=64.2884
+Epoch 22/80 | train_loss=1786.4231 train_recon=1773.5590 train_kl=64.3205

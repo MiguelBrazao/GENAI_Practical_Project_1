@@ -1,1 +1,1 @@
-Epoch 11/120 | D loss: 0.7104 | G loss: 2.6137
+Epoch 11/120 | D loss: 0.7263 | G loss: 2.6625

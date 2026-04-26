@@ -1,5 +1,5 @@
 Labels: ['impressionism', 'renaissance', 'surrealism', 'realism', 'surrealism', 'baroque', 'surrealism', 'ukiyo_e', 'realism', 'post_impressionism', 'expressionism', 'impressionism', 'art_nouveau', 'impressionism', 'surrealism', 'expressionism', 'ukiyo_e', 'art_nouveau', 'realism', 'baroque', 'baroque', 'impressionism', 'expressionism', 'post_impressionism', 'post_impressionism', 'ukiyo_e', 'art_nouveau', 'baroque', 'realism', 'surrealism', 'renaissance', 'ukiyo_e', 'expressionism', 'baroque', 'ukiyo_e', 'renaissance']
-Exported 32 images to: exported_data/train_subset/images
+Exported 36 images to: exported_data/train_subset/images
 Metadata CSV: exported_data/train_subset/metadata.csv
 --------------------------------------------------
 Starting VAE training and sampling with seed: 42

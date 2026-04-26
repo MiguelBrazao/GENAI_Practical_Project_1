@@ -1,4 +1,11 @@
-GAN KID Means across seeds: [0.0739516019821167]
-GAN KID Stds across seeds: [0.00811249390244484]
-Diffusion Avg Losses across seeds: [0.040444313967897064]
-Diffusion FID Scores across seeds: [np.float64(170.57659579379393)]
+--------------------------------------------------
+GAN means and std for all seeds:
+FID mean: 137.9675
+FID std:  0.0000
+KID mean: 0.057176
+KID std:  0.000000
+
+==================== Diffusion ====================
+--------------------------------------------------
+Diffusion values across seeds:
+Seed 42 | FID: 201.5991 | KID mean: 0.130834 | KID std: 0.010262

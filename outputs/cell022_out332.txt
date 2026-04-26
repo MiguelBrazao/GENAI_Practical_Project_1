@@ -1,1 +1,0 @@
-Average GAN Generator Loss for seed 0: 3.8192

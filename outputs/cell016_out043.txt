@@ -1,1 +1,1 @@
-Epoch 13/20 | D loss: 0.9451 | G loss: 1.8429
+Epoch 15/20 | D loss: 0.9714 | G loss: 1.9352

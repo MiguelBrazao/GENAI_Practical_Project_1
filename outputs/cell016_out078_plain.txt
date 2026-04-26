@@ -1,1 +1,1 @@
-<Figure size 700x400 with 1 Axes>
+<Figure size 960x960 with 36 Axes>

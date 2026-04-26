@@ -1,1 +1,1 @@
-Diff epoch 35/40 | loss: 0.0321
+Diff epoch 35/40 | loss: 0.0315

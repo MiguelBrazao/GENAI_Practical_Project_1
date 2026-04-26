@@ -1,1 +1,1 @@
-Epoch 95/120 | train_loss=1764.0604 train_recon=1745.6018 train_kl=92.2928
+Epoch 95/120 | train_loss=1764.0737 train_recon=1745.6100 train_kl=92.3184

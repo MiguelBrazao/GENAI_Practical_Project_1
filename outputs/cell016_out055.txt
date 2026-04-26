@@ -1,2 +1,5 @@
-GAN training and sampling completed in 66.20 seconds.
-GAN sampling completed in 0.01 seconds.
+GAN FID Score for seed 42: 313.5395
+GAN KID mean for seed 42 : 0.1137753501534462
+GAN KID std for seed 42 : 0.005768656264990568
+--------------------------------------------------
+Starting diffusion training and sampling with seed: 42

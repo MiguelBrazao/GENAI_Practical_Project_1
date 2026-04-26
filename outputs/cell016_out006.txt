@@ -1,1 +1,1 @@
-Epoch 3/20 | train_loss=1839.6883 train_recon=1818.9260 train_kl=29.6603
+Epoch 3/20 | train_loss=1839.4065 train_recon=1818.7085 train_kl=29.5686

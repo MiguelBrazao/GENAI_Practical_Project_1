@@ -1,1 +1,2 @@
-Average GAN Generator Loss for seed 42: 3.3957
+GAN training completed in 234.78 seconds.
+Average GAN Generator Loss for seed 42: 3.3396

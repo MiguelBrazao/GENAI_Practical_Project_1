@@ -1,1 +1,0 @@
-VAE FID Score for seed 0: 200.7375

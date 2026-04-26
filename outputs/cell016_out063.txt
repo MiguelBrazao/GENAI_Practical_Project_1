@@ -1,1 +1,1 @@
-Diff epoch 06/20 | loss: 0.0889
+Diff epoch 08/20 | loss: 0.0852

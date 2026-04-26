@@ -1,1 +1,1 @@
-Diff epoch 17/80 | loss: 0.0235
+Diff epoch 17/80 | loss: 0.0232

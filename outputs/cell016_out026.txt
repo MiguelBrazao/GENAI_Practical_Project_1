@@ -1,2 +1,1 @@
-VAE sampling completed in 0.20 seconds.
-Downloading: "https://github.com/mseitzer/pytorch-fid/releases/download/fid_weights/pt_inception-2015-12-05-6726825d.pth" to /root/.cache/torch/hub/checkpoints/pt_inception-2015-12-05-6726825d.pth
+VAE sampling completed in 0.13 seconds.

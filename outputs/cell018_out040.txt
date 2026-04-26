@@ -1,1 +1,1 @@
-Epoch 37/80 | train_loss=1783.6522 train_recon=1771.1605 train_kl=62.4584
+Epoch 37/80 | train_loss=1783.6859 train_recon=1771.1869 train_kl=62.4952

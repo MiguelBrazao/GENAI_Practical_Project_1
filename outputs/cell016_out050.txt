@@ -1,2 +1,2 @@
-Epoch 20/20 | D loss: 0.8424 | G loss: 1.8893
-Saved checkpoint to exported_data/gan_checkpoint.pth
+GAN training completed in 39.58 seconds.
+Average GAN Generator Loss for seed 42: 2.2892

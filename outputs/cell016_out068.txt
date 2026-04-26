@@ -1,1 +1,1 @@
-Diff epoch 11/20 | loss: 0.0786
+Diff epoch 13/20 | loss: 0.0787

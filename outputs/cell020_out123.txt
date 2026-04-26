@@ -1,4 +1,4 @@
-Epoch 120/120 | train_loss=1762.0358 train_recon=1743.4834 train_kl=92.7620
+Epoch 120/120 | train_loss=1762.0521 train_recon=1743.5009 train_kl=92.7563
 Saved conv_vae_ld64 model to ../artifacts/models/conv_vae_ld64.pt and history to ../artifacts/histories/conv_vae_ld64.json
-VAE training completed in 339.22 seconds.
-Average VAE Loss for seed 42: 1772.1855
+VAE training completed in 183.66 seconds.
+Average VAE Loss for seed 42: 1772.1721

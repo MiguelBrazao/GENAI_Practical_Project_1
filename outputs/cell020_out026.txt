@@ -1,1 +1,1 @@
-Epoch 23/120 | train_loss=1773.6485 train_recon=1755.0001 train_kl=93.2422
+Epoch 23/120 | train_loss=1773.6667 train_recon=1755.0166 train_kl=93.2507

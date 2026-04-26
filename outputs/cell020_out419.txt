@@ -1,1 +1,1 @@
-Diffusion sampling completed in 218.81 seconds.
+Diffusion sampling completed in 181.04 seconds.

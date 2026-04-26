@@ -1,1 +1,0 @@
-Diff epoch 04/80 | loss: 0.0290
