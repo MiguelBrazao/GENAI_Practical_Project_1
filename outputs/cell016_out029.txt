@@ -1,2 +1,4 @@
 /workspace/GENAI_Practical_Project_1/.venv/lib/python3.12/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: Metric `Kernel Inception Distance` will save all extracted features in buffer. For large datasets this may lead to large memory footprint.
   warnings.warn(*args, **kwargs)
+Downloading: "https://github.com/toshas/torch-fidelity/releases/download/v0.2.0/weights-inception-2015-12-05-6726825d.pth" to /root/.cache/torch/hub/checkpoints/weights-inception-2015-12-05-6726825d.pth
+100%|██████████| 91.2M/91.2M [00:01<00:00, 70.1MB/s]

@@ -1,4 +1,4 @@
-Epoch 80/80 | train_loss=1778.2608 train_recon=1765.9249 train_kl=61.6791
+Epoch 80/80 | train_loss=1778.2378 train_recon=1765.9107 train_kl=61.6359
 Saved conv_vae_ld32 model to ../artifacts/models/conv_vae_ld32.pt and history to ../artifacts/histories/conv_vae_ld32.json
-VAE training completed in 124.33 seconds.
-Average VAE Loss for seed 42: 1787.1088
+VAE training completed in 227.16 seconds.
+Average VAE Loss for seed 42: 1787.0951

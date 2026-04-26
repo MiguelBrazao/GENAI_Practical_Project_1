@@ -1,1 +1,1 @@
-Epoch 88/120 | D loss: 0.3564 | G loss: 3.7173
+Epoch 88/120 | D loss: 0.1199 | G loss: 3.9352

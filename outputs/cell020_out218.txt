@@ -1,1 +1,1 @@
-Epoch 88/200 | D loss: 0.1321 | G loss: 4.0421
+Epoch 88/200 | D loss: 0.4526 | G loss: 3.4141

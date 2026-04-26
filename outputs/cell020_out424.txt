@@ -1,4 +1,4 @@
-VAE KID Means across seeds: [0.15379439294338226]
-VAE KID Stds across seeds: [0.007833057083189487]
-GAN Avg Losses across seeds: [3.720880702505834]
-GAN FID Scores across seeds: [np.float64(137.58001555055506)]
+VAE KID Means across seeds: [0.15581923723220825]
+VAE KID Stds across seeds: [0.007816088385879993]
+GAN Avg Losses across seeds: [3.7393114913082]
+GAN FID Scores across seeds: [np.float64(123.7774546611696)]

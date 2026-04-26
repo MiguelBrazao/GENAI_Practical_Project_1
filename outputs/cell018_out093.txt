@@ -1,1 +1,1 @@
-Epoch 03/120 | D loss: 0.5207 | G loss: 3.7479
+Epoch 03/120 | D loss: 0.5532 | G loss: 3.5811

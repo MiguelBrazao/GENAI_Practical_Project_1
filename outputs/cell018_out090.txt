@@ -1,4 +1,4 @@
-VAE KID mean for seed 42 : 0.2150704711675644
-VAE KID std for seed 42 : 0.0102609908208251
+VAE KID mean for seed 42 : 0.2138192355632782
+VAE KID std for seed 42 : 0.00959758274257183
 --------------------------------------------------
 Starting GAN training and sampling with seed: 42

@@ -1,1 +1,1 @@
-Epoch 44/120 | D loss: 0.6621 | G loss: 3.4809
+Epoch 44/120 | D loss: 0.5934 | G loss: 3.3262

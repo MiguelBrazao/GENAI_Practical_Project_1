@@ -1,1 +1,1 @@
-Epoch 141/200 | D loss: 0.1103 | G loss: 4.5143
+Epoch 141/200 | D loss: 0.9257 | G loss: 3.0442

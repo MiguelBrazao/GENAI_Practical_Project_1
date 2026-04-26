@@ -1,5 +1,5 @@
-Diffusion FID Score for seed 42: 132.7982
-Diffusion KID mean for seed 42 : 0.05568225681781769
-Diffusion KID std for seed 42 : 0.006878982298076153
-VAE Avg Losses across seeds: [1772.1566276041667]
-VAE FID Scores across seeds: [np.float64(213.48792052647124)]
+Diffusion FID Score for seed 42: 117.4571
+Diffusion KID mean for seed 42 : 0.05559198558330536
+Diffusion KID std for seed 42 : 0.006869762670248747
+VAE Avg Losses across seeds: [1772.1854860384115]
+VAE FID Scores across seeds: [np.float64(198.92524015362034)]
